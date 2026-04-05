@@ -1,10 +1,14 @@
-## Hi there 👋
+<h1 align="left">Olá </h1>
 
+###
 
-**Patricia-oliv/Patricia-oliv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
-  
-<!-- “Wisdom tells me I am nothing. Love tells me I am everything. And between the two my life flows.” ― Nisargadatta Maharaj -->
-<!-- Continuous Improvement Programme - CIP -->
+<p align="left">My name is Patricia de Oliveira and I'm estudante de IA no programa Entra 21 ....</p>
 
-<div>
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">🎯 Formação: Formada em Administração / Pós graduada em Contabilidade e Gestão de Pessoas <br>🎲 Fun fact: Adoro trabalho em equipe e sou movida a desafios.</p>
 
