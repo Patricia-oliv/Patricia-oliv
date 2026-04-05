@@ -3,9 +3,9 @@
 
 ###
 
-<p align="left">•	“Não importa quão devagar você vá, contanto que não pare.” — Confúcio</p>
+<p align="left"> Meu nome é Patricia de Oliveira, estudante de IA pelo programa Entra 21 e apaixonada por tecnologia e desafios</p>
 
-<p align="left">My name is Patricia de Oliveira, estudante de IA pelo programa Entra 21 e apaixonada por tecnologia e desafios</p>
+<p align="left">•	“Não importa quão devagar você vá, contanto que não pare.” — Confúcio</p>
 
 ###
 
