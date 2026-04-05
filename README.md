@@ -9,7 +9,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 Sobre mim="left">About me</h2>
 
 ###
 
