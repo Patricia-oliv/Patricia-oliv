@@ -13,6 +13,6 @@
 
 ###
 
-<p align="left">🎯 Formação: Formada em Administração / Pós graduada em Contabilidade e Gestão de Pessoas <br>🎲 Fun fact: Adoro trabalho em equipe e sou movida a desafios.</p>
+<p align="left">🎯 Formação: Formada em Administração / Pós graduada em Contabilidade e Gestão de Pessoas <br>🎲 Curiosidades: Adoro trabalho em equipe e movida a desafios.</p>
 
 ![dino](https://github.com/user-attachments/assets/9fbad25d-c298-4866-a09b-d49252e6d023)
